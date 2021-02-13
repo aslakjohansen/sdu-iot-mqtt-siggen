@@ -1,3 +1,6 @@
+deps:
+	go get github.com/eclipse/paho.mqtt.golang
+
 produce:
 	go run mqtt-siggen.go
 

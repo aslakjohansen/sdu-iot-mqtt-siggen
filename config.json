@@ -17,7 +17,7 @@
         ]
     },
     {
-        "topic": "siggen/hum",
+        "topic": "siggen/humi",
         "samples": [
             {"time":  1.0, "value": 50.0},
             {"time":  2.0, "value": 55.3},

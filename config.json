@@ -1,6 +1,6 @@
 [
     {
-        "topic": "siggen/1/temp",
+        "topic": "siggen/room1/temp",
         "samples": [
             {"time":  1.0, "value": 20.0},
             {"time":  2.0, "value": 20.5},
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "topic": "siggen/1/humi",
+        "topic": "siggen/room1/rhum",
         "samples": [
             {"time":  1.0, "value": 50.0},
             {"time":  2.0, "value": 55.3},
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "topic": "siggen/2/temp",
+        "topic": "siggen/room2/temp",
         "samples": [
             {"time":  1.0, "value": 19.3},
             {"time":  2.0, "value": 19.7},
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "topic": "siggen/2/humi",
+        "topic": "siggen/room2/rhum",
         "samples": [
             {"time":  1.0, "value": 61.7},
             {"time":  2.0, "value": 59.4},
